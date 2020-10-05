@@ -31,7 +31,7 @@ npm install
 ```
 again.
 
-Once done, run the following command 
+Once done, run the following command, in the same path "/game_of_life_magma/views"
 ```sh
 yarn run build
 ```
