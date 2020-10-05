@@ -37,10 +37,17 @@ yarn run build
 ```
 this build Bundles the app into static files for production.
 
-Then go back to the previous folder "/game of life" and run the command
+Then go back to the previous folder "/game_of_life_magma" and run the command
 ```sh
 npm run dev
 ```
 and that is it!
 
 Just go to your browser and enter localhost:3000 and the page will be displayed.
+
+# Tests
+
+To run the tests, move to "/game_of_life_magma/views" and enter the following command
+```sh
+npm run test
+```
